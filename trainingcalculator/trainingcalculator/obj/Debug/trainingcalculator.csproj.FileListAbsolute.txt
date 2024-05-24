@@ -1,0 +1,10 @@
+C:\PyCharm\trainingcalculator\trainingcalculator\bin\Debug\trainingcalculator.exe.config
+C:\PyCharm\trainingcalculator\trainingcalculator\bin\Debug\trainingcalculator.exe
+C:\PyCharm\trainingcalculator\trainingcalculator\bin\Debug\trainingcalculator.pdb
+C:\PyCharm\trainingcalculator\trainingcalculator\obj\Debug\trainingcalculator.csproj.AssemblyReference.cache
+C:\PyCharm\trainingcalculator\trainingcalculator\obj\Debug\trainingcalculator.Form1.resources
+C:\PyCharm\trainingcalculator\trainingcalculator\obj\Debug\trainingcalculator.Properties.Resources.resources
+C:\PyCharm\trainingcalculator\trainingcalculator\obj\Debug\trainingcalculator.csproj.GenerateResource.cache
+C:\PyCharm\trainingcalculator\trainingcalculator\obj\Debug\trainingcalculator.csproj.CoreCompileInputs.cache
+C:\PyCharm\trainingcalculator\trainingcalculator\obj\Debug\trainingcalculator.exe
+C:\PyCharm\trainingcalculator\trainingcalculator\obj\Debug\trainingcalculator.pdb

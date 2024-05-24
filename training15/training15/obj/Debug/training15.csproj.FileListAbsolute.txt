@@ -1,0 +1,7 @@
+C:\PyCharm\training15\training15\bin\Debug\training15.exe.config
+C:\PyCharm\training15\training15\bin\Debug\training15.exe
+C:\PyCharm\training15\training15\bin\Debug\training15.pdb
+C:\PyCharm\training15\training15\obj\Debug\training15.csproj.AssemblyReference.cache
+C:\PyCharm\training15\training15\obj\Debug\training15.csproj.CoreCompileInputs.cache
+C:\PyCharm\training15\training15\obj\Debug\training15.exe
+C:\PyCharm\training15\training15\obj\Debug\training15.pdb
