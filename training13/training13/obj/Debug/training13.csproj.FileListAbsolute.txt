@@ -1,0 +1,16 @@
+C:\PyCharm\training13\training13\bin\Debug\training13.exe.config
+C:\PyCharm\training13\training13\bin\Debug\training13.exe
+C:\PyCharm\training13\training13\bin\Debug\training13.pdb
+C:\PyCharm\training13\training13\bin\Debug\Add.dll
+C:\PyCharm\training13\training13\bin\Debug\Add.pdb
+C:\PyCharm\training13\training13\obj\Debug\training13.csproj.AssemblyReference.cache
+C:\PyCharm\training13\training13\obj\Debug\training13.csproj.CoreCompileInputs.cache
+C:\PyCharm\training13\training13\obj\Debug\training13.csproj.Up2Date
+C:\PyCharm\training13\training13\obj\Debug\training13.exe
+C:\PyCharm\training13\training13\obj\Debug\training13.pdb
+C:\PyCharm\training13\training13\bin\Debug\Divide.dll
+C:\PyCharm\training13\training13\bin\Debug\Multiple.dll
+C:\PyCharm\training13\training13\bin\Debug\Subtract.dll
+C:\PyCharm\training13\training13\bin\Debug\Divide.pdb
+C:\PyCharm\training13\training13\bin\Debug\Multiple.pdb
+C:\PyCharm\training13\training13\bin\Debug\Subtract.pdb

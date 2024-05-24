@@ -1,0 +1,6 @@
+C:\PyCharm\training13\Multiple\bin\Debug\Multiple.dll
+C:\PyCharm\training13\Multiple\bin\Debug\Multiple.pdb
+C:\PyCharm\training13\Multiple\obj\Debug\Multiple.csproj.AssemblyReference.cache
+C:\PyCharm\training13\Multiple\obj\Debug\Multiple.csproj.CoreCompileInputs.cache
+C:\PyCharm\training13\Multiple\obj\Debug\Multiple.dll
+C:\PyCharm\training13\Multiple\obj\Debug\Multiple.pdb

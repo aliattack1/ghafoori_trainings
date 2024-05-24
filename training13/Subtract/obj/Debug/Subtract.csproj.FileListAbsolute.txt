@@ -1,0 +1,6 @@
+C:\PyCharm\training13\Subtract\bin\Debug\Subtract.dll
+C:\PyCharm\training13\Subtract\bin\Debug\Subtract.pdb
+C:\PyCharm\training13\Subtract\obj\Debug\Subtract.csproj.AssemblyReference.cache
+C:\PyCharm\training13\Subtract\obj\Debug\Subtract.csproj.CoreCompileInputs.cache
+C:\PyCharm\training13\Subtract\obj\Debug\Subtract.dll
+C:\PyCharm\training13\Subtract\obj\Debug\Subtract.pdb

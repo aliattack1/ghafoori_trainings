@@ -1,0 +1,6 @@
+C:\PyCharm\training13\Divide\bin\Debug\Divide.dll
+C:\PyCharm\training13\Divide\bin\Debug\Divide.pdb
+C:\PyCharm\training13\Divide\obj\Debug\Divide.csproj.AssemblyReference.cache
+C:\PyCharm\training13\Divide\obj\Debug\Divide.csproj.CoreCompileInputs.cache
+C:\PyCharm\training13\Divide\obj\Debug\Divide.dll
+C:\PyCharm\training13\Divide\obj\Debug\Divide.pdb

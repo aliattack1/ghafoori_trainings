@@ -1,0 +1,6 @@
+C:\PyCharm\training13\Add\bin\Debug\Add.dll
+C:\PyCharm\training13\Add\bin\Debug\Add.pdb
+C:\PyCharm\training13\Add\obj\Debug\Add.csproj.AssemblyReference.cache
+C:\PyCharm\training13\Add\obj\Debug\Add.csproj.CoreCompileInputs.cache
+C:\PyCharm\training13\Add\obj\Debug\Add.dll
+C:\PyCharm\training13\Add\obj\Debug\Add.pdb
